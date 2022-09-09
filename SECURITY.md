@@ -6,9 +6,10 @@ Versions being supported with help/and or fixes.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 6.1   | :white_check_mark: |
-| 5.0   | :x:                |
-| 4.0   | :white_check_mark: |
+| 7.0   | ? |
+| 6.0   | :white_check_mark: |
+| < 5.0   | :x:                |
+| 4.0   | :x: |
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
