@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported.
+Versions being supported with help/and or fixes.
 
 | Version | Supported          |
 | ------- | ------------------ |
