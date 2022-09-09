@@ -16,4 +16,4 @@ Versions being supported with help/and or fixes.
 
 If you're experiencing issues please contact <gblood016@gmail.com>.
 
-Only supporting what's above, if checked.
+Please state, <version>, <issue> within the email for proper support.
