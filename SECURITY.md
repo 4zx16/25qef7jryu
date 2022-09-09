@@ -2,8 +2,6 @@
 
 ## Supported Versions
 
-Versions being supported with help/and or fixes.
-
 | Version | Supported          |
 | ------- | ------------------ |
 | 7.0   | Unknown Status |
@@ -13,7 +11,7 @@ Versions being supported with help/and or fixes.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
-
 If you're experiencing issues please contact gblood016@gmail.com.
 
-Please state, (version), (issue) within the email for proper support.
+Please state, the version you're using and the issue your experiencing with it within the email,
+if your version you're having the issue with isn't on the supported list via GitHub please update to a supported version.
