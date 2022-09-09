@@ -8,7 +8,7 @@
 | 6.0   | :white_check_mark: |
 | 5.0   | :white_check_mark: |
 | 4.0   | :x: |
-| < 4.0   | :x:                |
+| < 3.0   | :x:                |
 
 ## Reporting a Vulnerability
 If you're experiencing issues please contact gblood016@gmail.com.
