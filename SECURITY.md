@@ -6,16 +6,14 @@ Versions being supported with help/and or fixes.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 7.0   | ? |
+| 7.0   | Unknown Status |
 | 6.0   | :white_check_mark: |
-| < 5.0   | :x:                |
+| 5.0   | :white_check_mark: |
 | 4.0   | :x: |
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you're experiencing issues please contact <gblood016@gmail.com>.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Only supporting what's above, if checked.
