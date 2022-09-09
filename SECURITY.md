@@ -14,6 +14,6 @@ Versions being supported with help/and or fixes.
 
 ## Reporting a Vulnerability
 
-If you're experiencing issues please contact <gblood016@gmail.com>.
+If you're experiencing issues please contact gblood016@gmail.com.
 
-Please state, <version>, <issue> within the email for proper support.
+Please state, (version), (issue) within the email for proper support.
