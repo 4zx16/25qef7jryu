@@ -1,14 +1,14 @@
-# Security Policy
+# RB VERSIONS
 
 ## Supported Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 7.0   | ❓ |
-| 6.0   | :white_check_mark: |
-| 5.0   | :white_check_mark: |
-| 4.0   | :x: |
-| < 3.0   | :x:                |
+| 7   | ❓ |
+| 6   | :white_check_mark: |
+| 5   | :white_check_mark: |
+| 4   | :x: |
+| < 3 | :x: |
 
 ## Reporting an issue
 Forward your problem to gblood016@gmail.com.
