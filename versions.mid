@@ -5,13 +5,13 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | 7   | ❓ |
-| 6   | :white_check_mark: |
-| 5   | :white_check_mark: |
-| 4   | :x: |
-| < 3 | :x: |
+| 6   | ✅ |
+| 5   | ✅ |
+| 4   | ❌ |
+| < 3 | ❌ |
 
 ## Reporting an issue
-Forward your problem to gblood016@gmail.com.
+-- Forward your problem to gblood016@gmail.com.
 
 Must be a supported version, or we can't help you.
 
