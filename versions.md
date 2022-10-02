@@ -9,7 +9,7 @@
 | 5.0   | ✅                    |
 
 ## Reporting an issue
-Forward your problem to < gblood016@gmail.com >
+Forward your problem to <gblood016@gmail.com>
 
 ## Solving the issue
 
