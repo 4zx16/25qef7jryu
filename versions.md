@@ -9,9 +9,7 @@
 | 5.0   | ✅                    |
 
 ## Reporting an issue
-Forward your problem to gblood016@gmail.com.
-
-Must be a supported version, or we can't help you.
+Forward your problem to < gblood016@gmail.com >
 
 ## Solving the issue
 
