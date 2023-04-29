@@ -1,5 +1,3 @@
-# RB VERSIONS
-
 ## Supported Versions
 
 | Version | Supported          |
