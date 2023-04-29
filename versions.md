@@ -4,9 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 7.0   | ❓                    |
-| 6.0   | ✅                    |
-| 5.0   | ✅                    |
+| 6.1   | ✅                    |
+| 5   | ✅                    |
 
 ## Reporting an issue
 Forward your problem to __<gblood016@gmail.com>__
